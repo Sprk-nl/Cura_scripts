@@ -1,27 +1,12 @@
 # Script name: ShowLayerDetail 
 # Show Layer and Type on Display via M117 command.
 # 
-# This script inserts addition lines in the gcode file
+# This script inserts addition M117 lines in the gcode file:
 #   - Layer nr / Total Layers
 #   - Layer nr / Total Layers & Type of Layer
 # 
 # This script is licensed under the Creative Commons - Attribution - Share Alike (CC BY-SA) terms
 # Author: Gaston Bougie
-#
-# To do:
-# - Give users the option to change display layout
-# - Use option M118 to send information to octoprint over serial like: action:disconnect, action:pause and action:resume
-# - Example: 
-#            x-axis home (or almost left)
-#            Y-axis  brings bed up front for clear viewitems
-#            M118 action:photo
-#            wait x seconds (howto in Marlin?)
-#            Octopy grabs a picture
-#            continue printing next layer
-# - Add an octoprint option to create a snapshop on a layer
-# - Add snapshot hotend location presets, and let user customize
-# - As you know the total layers, and layer position, imagine a camera connected to the hotend and use X-axis with close-up camera
-
 
 
 from ..Script import Script
