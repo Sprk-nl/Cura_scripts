@@ -7,6 +7,7 @@
 #
 # Save script in: C:\Users\[username]\AppData\Roaming\cura\3.6\scripts
 # Restart Cura
+# More Cura information for post prosessing: https://ultimaker.com/en/resources/20442-post-processing-plugins
 # 
 # This script is licensed under the Creative Commons - Attribution - Share Alike (CC BY-SA) terms
 # Author: Gaston Bougie
