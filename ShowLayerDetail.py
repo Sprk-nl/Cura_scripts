@@ -1,7 +1,7 @@
 # Script name: ShowLayerDetail 
 # Show Layer and Type on Display via M117 command.
 # 
-# This script inserts addition M117 lines in the gcode file:
+# This Cura Post Prosessing script inserts addition M117 lines in the gcode file:
 #   - Layer nr / Total Layers
 #   - Layer nr / Total Layers & Type of Layer
 #
