@@ -4,6 +4,9 @@
 # This script inserts addition M117 lines in the gcode file:
 #   - Layer nr / Total Layers
 #   - Layer nr / Total Layers & Type of Layer
+#
+# Save script in: C:\Users\[username]\AppData\Roaming\cura\3.6\scripts
+# Restart Cura
 # 
 # This script is licensed under the Creative Commons - Attribution - Share Alike (CC BY-SA) terms
 # Author: Gaston Bougie
